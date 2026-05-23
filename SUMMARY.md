@@ -39,6 +39,7 @@
   - [第五章：致富 vs 守富](reading/psychology-of-money/chapter-5.md)
   - [第六章：尾部事件决定一切](reading/psychology-of-money/chapter-6.md)
   - [第七章：自由](reading/psychology-of-money/chapter-7.md)
+  - [思维框架总结](reading/psychology-of-money/framework.md)
 
 ## 驾照考试
 - [驾考概览](driving-license/README.md)

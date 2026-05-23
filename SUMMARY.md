@@ -31,6 +31,13 @@
 - [阅读概览](reading/README.md)
 - [读书笔记](reading/books.md)
 - [文章收藏](reading/articles.md)
+- [金钱心理学](reading/psychology-of-money/README.md)
+  - [第一章：没有人是疯子](reading/psychology-of-money/chapter-1.md)
+  - [第二章：运气与风险](reading/psychology-of-money/chapter-2.md)
+  - [第三章：永不知足](reading/psychology-of-money/chapter-3.md)
+  - [第四章：令人惊叹的复利](reading/psychology-of-money/chapter-4.md)
+  - [第五章：致富 vs 守富](reading/psychology-of-money/chapter-5.md)
+  - [第六章：尾部事件决定一切](reading/psychology-of-money/chapter-6.md)
 
 ## 驾照考试
 - [驾考概览](driving-license/README.md)

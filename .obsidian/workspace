@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "f2f5edb017348d8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a733d7821202fa12",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "reading/psychology-of-money/chapter-4.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2e741e3e25749f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "60ab53890727178e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbec10937ab8b838",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bee6fee5dbf1d12c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7dc4b0efc3f754e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23cc9907e60f14e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b08ee6b01f773d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b6d0b31c448829",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "reading/psychology-of-money/chapter-4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a3fed93fa567585",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "reading/psychology-of-money/chapter-4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10f5d1e2e5c09385",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81884da73233ec27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "reading/psychology-of-money/chapter-4.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dbec10937ab8b838",
+  "lastOpenFiles": [
+    "reading/psychology-of-money/chapter-2.md",
+    "reading/psychology-of-money/chapter-1.md",
+    "reading/psychology-of-money/README.md",
+    "reading/金钱心理学/序.md",
+    "reading/README.md",
+    "reading/books.md",
+    "reading/articles.md",
+    "daily/README.md",
+    "daily/gotchas.md",
+    "annual-plan/2026.md"
+  ]
+}

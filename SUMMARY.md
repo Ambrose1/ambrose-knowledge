@@ -38,6 +38,7 @@
   - [第四章：令人惊叹的复利](reading/psychology-of-money/chapter-4.md)
   - [第五章：致富 vs 守富](reading/psychology-of-money/chapter-5.md)
   - [第六章：尾部事件决定一切](reading/psychology-of-money/chapter-6.md)
+  - [第七章：自由](reading/psychology-of-money/chapter-7.md)
 
 ## 驾照考试
 - [驾考概览](driving-license/README.md)

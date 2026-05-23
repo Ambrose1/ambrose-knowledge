@@ -32,6 +32,17 @@
 - [读书笔记](reading/books.md)
 - [文章收藏](reading/articles.md)
 
+## 驾照考试
+- [驾考概览](driving-license/README.md)
+- [科目一](driving-license/subject-1.md)
+- [科目二](driving-license/subject-2.md)
+- [科目三](driving-license/subject-3.md)
+- [科目四](driving-license/subject-4.md)
+
+## 全年规划
+- [规划概览](annual-plan/README.md)
+- [2026 年](annual-plan/2026.md)
+
 ## 日常
 - [日常概览](daily/README.md)
 - [问题排查](daily/troubleshooting.md)

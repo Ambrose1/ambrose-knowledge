@@ -40,6 +40,7 @@
   - [第六章：尾部事件决定一切](reading/psychology-of-money/chapter-6.md)
   - [第七章：自由](reading/psychology-of-money/chapter-7.md)
   - [思维框架总结](reading/psychology-of-money/framework.md)
+  - [历史小故事合集](reading/psychology-of-money/stories.md)
 
 ## 驾照考试
 - [驾考概览](driving-license/README.md)
